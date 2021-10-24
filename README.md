@@ -1,1 +1,1 @@
-# IMDb-Regression-project
+# Predicting US movies Gross Using Reagression
