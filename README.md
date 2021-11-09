@@ -7,7 +7,7 @@
 The second project for Data science Bootcamp T5 is predicting US movies gross using multiple linear Regression. Hence, the idea behind this project is to find the best Machine Learning models to predict US movie gross based on many factors. In addition, this project sheds light on the IMDb dataset that we will use, dataset description, and finally, the tools used in this project.
   
 
-  <center> ![2560px-IMDB_Logo_2016 svg](https://user-images.githubusercontent.com/57495692/140867017-34aef8cf-800a-4d67-af39-adfe4613a5b3.png) </center> 
+![2560px-IMDB_Logo_2016 svg](https://user-images.githubusercontent.com/57495692/140867017-34aef8cf-800a-4d67-af39-adfe4613a5b3.png)
   
 ### Company information: 
 The Internet Movie Database (IMDb), a website that provides the most extensive information about millions of movies, TV shows, and their cast and crew. It's a highly detailed source of movie data that features top movies, news, free movies, reviews, celebrity profiles, and more.
