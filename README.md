@@ -27,3 +27,8 @@ The datasets that will be used in this project will be scraped from the IMDB web
 * Technologies: Jupyter Notebook, Python.
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn, Request, BeautifulSoup, and Scikit-learn.
 
+
+## Contributions:
+
+[Leena AlQasem](https://github.com/LeenaAAlQasem) <br>
+[Randa Almohammadi](https://github.com/rmalmoha)
